@@ -1,0 +1,8 @@
+rock-paper-scissors
+├── src
+│   └── main.py
+├── tests
+│   └── test_game.py
+├── .gitignore
+├── requirements.txt
+└── README.md
